@@ -1,0 +1,14 @@
+{
+  "name": "wallpapers",
+  "version": "1.0.0",
+  "description": "Script to download earthview wallpapers and populate windows directory",
+  "main": "wallpaperScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yorke Rhodes IV",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
